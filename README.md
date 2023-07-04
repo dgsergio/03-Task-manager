@@ -11,7 +11,7 @@
 - [x] Connecting DB to the app (Mongoose)
 - [x] Setup documents structure
 - [x] Setup controllers (get, post, patch & delete)
-- [ ] Validation post & patch
+- [x] Validation post & patch
 - [ ] Code refactoring
   - [ ] Options in JSON responses
   - [ ] Setting not found route
