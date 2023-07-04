@@ -13,4 +13,4 @@
 - [x] Setup controllers (get, post, patch & delete)
 - [x] Validation post & patch
 - [x] Code refactoring
-- [ ] Deployment
+- [x] Deployment
