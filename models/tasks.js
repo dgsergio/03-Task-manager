@@ -1,9 +1,9 @@
 const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
-const TaskSchema = new Schema({
+const taskSchema = new Schema({
   name: String,
   completed: Boolean,
 });
 
-module.exports = TaskSchema; //nop
+module.exports = mongoose.model('Task', taskSchema);
